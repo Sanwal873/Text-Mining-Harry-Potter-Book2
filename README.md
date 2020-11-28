@@ -1,4 +1,4 @@
-# Sentimental-Analysis-and-Social-Nretwork-Map-of-Harry-Potter-2
+# Sentimental-Analysis-and-Social-Network-Map-of-Harry-Potter-2
 In this project, we are performing sentimental analysis on the characters of Harry Potter book 2 to understand the sentiments of the characters and their relationships with other characters. Our main focus will be on the three leads "Harry", "Hermione", "Ron" journey over the book, How their sentiments change as we move ahead in the book.
 
 # Intoduction:
