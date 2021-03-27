@@ -1,10 +1,10 @@
 # Text Mining Harry Potter Book 2
-In this project, we are performing sentimental analysis on the characters of Harry Potter book 2 to understand the sentiments of the characters and their relationships with other characters. Our main focus will be on the three leads "Harry", "Hermione", "Ron" journey over the book, How their sentiments change as we move ahead in the book.
+In this project, I performed sentimental analysis on the characters of Harry Potter book 2 to understand the sentiments of the characters and their relationships with other characters. My main focus will be on the three leads "Harry", "Hermione", "Ron" journey over the book, How their sentiments change as we move ahead in the book.
 
 # Intoduction:
 I used R programming  to perform sentimental analysis and to create social network maps for the characters of Harry Potter Book 2.
 
-For the purpose of sentiment analysis, we divided the film into acts
+For the purpose of sentiment analysis, I divided the film into acts
 Harry Potter and the Chamber of Secrets follows a three act structure
 
 Act 1 ends when the status quo is broken
