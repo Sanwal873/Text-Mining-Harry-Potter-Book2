@@ -34,5 +34,5 @@ Generated individual maps for our three protagonists and antagonists
  To use the script of Book 2 for sentimental analysis, we must clean our data and perform several preprocessing task such as removing stopwords, removing any alphanemuric characters and number , lemmatization and stemming.
   
  # End Notes:
- In this project, We created social network maps and performed sentimental analysis of book 2 by using R programming. 
- First, We cleaned our data by performing per processing tasks and then used R to create social network maps and generate sentimental analysis of Book 2.  
+ In this project, I created social network maps and performed sentimental analysis of book 2 by using R programming. 
+ First, I cleaned our data by performing per processing tasks and then used R to create social network maps and generate sentimental analysis of Book 2.  
